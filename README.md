@@ -30,7 +30,6 @@ FROM Table 1
 WHERE A,B,C = Positive integers
 
 ```
-![](Assignment screenshot.png).
 
 ## Result/ Findings/ Inferences
 This is where you put the insight goitten from the Data Analysis
