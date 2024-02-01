@@ -15,7 +15,7 @@
 -[Results/Findings/Inferences](#results-findings-inferences)
 
 
-*## Project Overview*
+## Project Overview
 ---
 This Data Analysis project aoms to generate insight into the sales performance of the E commerce projects over the past year. By analysing the various parameters in the data received we seek to gather enough insight to make reasonable decisions which the enable us to tell compelling stories around our data from the insight gotten to know the best performance from our data
 
