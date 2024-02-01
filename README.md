@@ -12,7 +12,7 @@
 
 -[Data Analysis](#data-analysis)
 
--[Results/Findings/Inferences](#results/findings/inferences)
+-[Results/Findings/Inferences](#results-findings-inferences)
 
 
 *## Project Overview*
